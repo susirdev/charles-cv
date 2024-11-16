@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "四川省成都市/新疆维吾尔自治区乌鲁木齐市",
   locationLink: "map.baidu.com",
   about:
-    "一位曾经服过兵役、熟练掌握主流编程语言，国际经济与贸易的大学生",
+    "一位熟练掌握主流编程语言的国际经济与贸易的大学生",
   summary:
     "国际经济与贸易专业出身，曾服役锻炼，精通Java、Python等编程，致力于将经贸知识与技术能力结合，为国际经贸或科技企业服务。",
   avatarUrl: "https://img.picui.cn/free/2024/11/16/67381d80e82fc.jpg",
