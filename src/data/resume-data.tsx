@@ -28,21 +28,21 @@ export const RESUME_DATA = {
     "一位熟练掌握主流编程语言的国际经济与贸易的大学生",
   summary:
     "国际经济与贸易专业出身，曾服役锻炼，精通Java、Python等编程，致力于将经贸知识与技术能力结合，为国际经贸或科技企业服务。",
-  avatarUrl: "https://img.picui.cn/free/2024/11/16/67381d80e82fc.jpg",
-  personalWebsiteUrl: "https://jarocki.me",
+  avatarUrl: "/src/images/profile/profile.jpg",
+  personalWebsiteUrl: "https://charles.su",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "im@charles.su",
+    tel: "+8619219983882",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/susirdev",
         icon: GitHubIcon,
       },
       {
-        name: "LinkedIn",
+        name: "WeChat",
         url: "https://www.linkedin.com/in/bjarocki/",
-        icon: LinkedInIcon,
+        icon: WeChatIcon,
       },
       {
         name: "X",
