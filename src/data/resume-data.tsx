@@ -40,9 +40,9 @@ export const RESUME_DATA = {
         icon: GitHubIcon,
       },
       {
-        name: "WeChat",
+        name: "LinkedIn",
         url: "https://www.linkedin.com/in/bjarocki/",
-        icon: WeChatIcon,
+        icon: LinkedInIcon,
       },
       {
         name: "X",
