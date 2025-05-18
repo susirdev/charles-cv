@@ -21,7 +21,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "苏 健杭",
-  initials: "SJH",
+  initials: "/images/profile/profile.jpg",
   location: "四川省成都市/新疆维吾尔自治区乌鲁木齐市",
   locationLink: "map.baidu.com",
   about:
